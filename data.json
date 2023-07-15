@@ -10,6 +10,7 @@
     ],
     "EmailTypes":
     [
+        {"Id": 0, "Type": "None", "Value": ""},
         {"Id": 1, "Type": "Water Reading", "Value": "Aquaelvas"},
         {"Id": 2, "Type": "Medication Request", "Value": "Pedico de Medicação"}
     ],
