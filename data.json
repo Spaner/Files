@@ -45,16 +45,16 @@
         {"Name": "Line1", "Value": "Venho por este meio comunicar que o consumo de água do contrato número 28483 da morada Rua de Nossa Senhora do Passo em Barbacena é de "},
         {"Name": "Line2", "Value": " metros cúbicos para o mês actual."},
         {"Name": "Line3", "Value": ""},
-        {"Name": "Line4", "Value": "Agradeço o envio da factura electrónica para o seguinte e-mail: %s."},
+        {"Name": "Line4", "Value": "Agradeço o envio da factura electrónica para o seguinte e-mail: {email}."},
         {"Name": "Line5", "Value": "Com os melhores cumprimentos."}
     ],
     "MedicationRequestEmail":
     [       
         {"Name": "Title", "Value": "Pedido de Medicação"},
-        {"Name": "Line1", "Value": "Solicito receituário para o utente número %s %s para os seguintes medicamentos:"},
+        {"Name": "Line1", "Value": "Solicito receituário para o utente número {number} {name} para os seguintes medicamentos:"},
         {"Name": "Line2", "Value": ""},
         {"Name": "Line3", "Value": "Muito obrigado."},
-        {"Name": "Line4", "Value": "Massamá %s de %s de %s"}
+        {"Name": "Line4", "Value": "Massamá {day} de {month} de {year}"}
     ],
     "Resources":
     [
