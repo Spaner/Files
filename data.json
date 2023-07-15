@@ -1,0 +1,64 @@
+{
+    "Settings":
+    [
+        {"Name": "UserEmail", "Value": "mcspernas@gmail.com"},
+        {"Name": "MedicationEmail", "Value": "mactama.receituario@arslvt.min-saude.pt"},
+        {"Name": "WaterEmail", "Value": "aquaelvas@fcc.es"},
+        {"Name": "UtenteNumber", "Value": "370221824"},
+        {"Name": "UtenteName", "Value": "Manuel António Fanico Pernas"},
+        {"Name": "UserName", "Value": "Maria da Conceição Sequeira Pernas"}
+    ],
+    "EmailTypes":
+    [
+        {"Id": 1, "Type": "Water Reading", "Value": "Aquaelvas"},
+        {"Id": 2, "Type": "Medication Request", "Value": "Pedico de Medicação"}
+    ],
+    "Months":
+    [
+        {"Id": 1, "Name": "Janeiro"},
+        {"Id": 2, "Name": "Fevereiro"},
+        {"Id": 3, "Name": "Março"},
+        {"Id": 4, "Name": "Abril"},
+        {"Id": 5, "Name": "Maio"},
+        {"Id": 6, "Name": "Junho"},
+        {"Id": 7, "Name": "Julho"},
+        {"Id": 8, "Name": "Agosto"},
+        {"Id": 9, "Name": "Setembro"},
+        {"Id": 10, "Name": "Outubro"},
+        {"Id": 11, "Name": "Novembro"},
+        {"Id": 12, "Name": "Dezembro"}
+    ],
+    "Medications":
+    [
+        {"Id": 1, "Name": "Morfex", "Dosage": "30", "Units": "mg", "Notes": ""},
+        {"Id": 2, "Name": "Omeprazol", "Dosage": "20", "Units": "mg", "Notes": ""},
+        {"Id": 3, "Name": "Medipax", "Dosage": "5", "Units": "mg", "Notes": ""},
+        {"Id": 4, "Name": "Azopt", "Dosage": "10", "Units": "mg/ml", "Notes": ""},
+        {"Id": 5, "Name": "Tromalyt", "Dosage": "150", "Units": "mg", "Notes": ""},
+        {"Id": 6, "Name": "Atorvastatina", "Dosage": "10", "Units": "mg", "Notes": ""},
+        {"Id": 7, "Name": "Physioglau", "Dosage": "2", "Units": "%", "Notes": "2 emb. de 30 Unidoses de 0,2ml"}
+    ],
+    "WaterReadingEmail":
+    [       
+        {"Name": "Title", "Value": "Comunicação de Leitura"},
+        {"Name": "Line1", "Value": "Venho por este meio comunicar que o consumo de água do contrato número 28483 da morada Rua de Nossa Senhora do Passo em Barbacena é de "},
+        {"Name": "Line2", "Value": " metros cúbicos para o mês actual."},
+        {"Name": "Line3", "Value": ""},
+        {"Name": "Line4", "Value": "Agradeço o envio da factura electrónica para o seguinte e-mail: %s."},
+        {"Name": "Line5", "Value": "Com os melhores cumprimentos."}
+    ],
+    "MedicationRequestEmail":
+    [       
+        {"Name": "Title", "Value": "Pedido de Medicação"},
+        {"Name": "Line1", "Value": "Solicito receituário para o utente número %s %s para os seguintes medicamentos:"},
+        {"Name": "Line2", "Value": ""},
+        {"Name": "Line3", "Value": "Muito obrigado."},
+        {"Name": "Line4", "Value": "Massamá %s de %s de %s"}
+    ],
+    "Resources":
+    [
+        {"Name": "Cancel", "Value": "Cancelar"},
+        {"Name": "Send", "Value": "Enviar"},
+        {"Name": "AppTitle", "Value": "Os Meus Emails"}
+    ]
+}
