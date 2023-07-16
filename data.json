@@ -63,6 +63,7 @@
         {"Name": "Medication", "Value": "Medicamentos: "},
         {"Name": "MedicationSelect", "Value": "Selecione um medicamento"},
         {"Name": "Add", "Value": "Adicionar"},
-        {"Name": "Remove", "Value": "Remover"}
+        {"Name": "Remove", "Value": "Remover"},
+        {"Name": "Reading", "Value": "Leitura: "}
     ]
 }
