@@ -60,6 +60,6 @@
     [
         {"Name": "Cancel", "Value": "Cancelar"},
         {"Name": "Send", "Value": "Enviar"},
-        {"Name": "AppTitle", "Value": "Os Meus Emails"}
+        {"Name": "Medication", "Value": "Medicamentos: "}
     ]
 }
