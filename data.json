@@ -43,8 +43,8 @@
     [       
         {"Name": "Title", "Value": "Comunicação de Leitura"},
         {"Name": "Line1", "Value": "Venho por este meio comunicar que o consumo de água do contrato número 28483 da morada Rua de Nossa Senhora do Passo em Barbacena é de "},
-        {"Name": "Line2", "Value": " metros cúbicos para o mês actual."},
-        {"Name": "Line3", "Value": ""},
+        {"Name": "Line2", "Value": ""},
+        {"Name": "Line3", "Value": " metros cúbicos para o mês actual."},
         {"Name": "Line4", "Value": "Agradeço o envio da factura electrónica para o seguinte e-mail: {email}."},
         {"Name": "Line5", "Value": "Com os melhores cumprimentos."}
     ],
@@ -64,6 +64,6 @@
         {"Name": "MedicationSelect", "Value": "Selecione um medicamento"},
         {"Name": "Add", "Value": "Adicionar"},
         {"Name": "Remove", "Value": "Remover"},
-        {"Name": "Reading", "Value": "Leitura: "}
+        {"Name": "Reading", "Value": "Insira a leitura: "}
     ]
 }
