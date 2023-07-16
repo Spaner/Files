@@ -60,6 +60,7 @@
     [
         {"Name": "Cancel", "Value": "Cancelar"},
         {"Name": "Send", "Value": "Enviar"},
-        {"Name": "Medication", "Value": "Medicamentos: "}
+        {"Name": "Medication", "Value": "Medicamentos: "},
+        {"Name": "MedicationSelect", "Value": "Selecione um medicamento"}
     ]
 }
