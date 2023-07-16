@@ -61,6 +61,8 @@
         {"Name": "Cancel", "Value": "Cancelar"},
         {"Name": "Send", "Value": "Enviar"},
         {"Name": "Medication", "Value": "Medicamentos: "},
-        {"Name": "MedicationSelect", "Value": "Selecione um medicamento"}
+        {"Name": "MedicationSelect", "Value": "Selecione um medicamento"},
+        {"Name": "Add", "Value": "Adicionar"},
+        {"Name": "Remove", "Value": "Remover"}
     ]
 }
